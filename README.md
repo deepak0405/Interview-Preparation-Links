@@ -11,3 +11,7 @@
 
 ### 4. Computer Vision Awesome Links !!!
 - **3D reconstruction from multiple Images** : [3d reconstruction](http://cvgl.stanford.edu/teaching/cs231a_winter1415/prev/projects/CS231a-FinalReport-sgmccann.pdf)
+
+## 5. OS questions:
+- ** User level and System Level threads** : [stackoverflow link]
+(https://stackoverflow.com/questions/14791278/threads-why-must-all-user-threads-be-mapped-to-a-kernel-thread)
