@@ -16,3 +16,8 @@
 - **System and user level thread** : 
 1. [Stack overflow link](https://stackoverflow.com/questions/14791278/threads-why-must-all-user-threads-be-mapped-to-a-kernel-thread)
 2. [Stack Overflow link](https://stackoverflow.com/questions/15983872/difference-between-user-level-and-kernel-supported-threads/15984127#15984127)
+
+I am still confused, but here is the summary of the answers:
+1. User level thread is for user space code and kernel level thread is for kernel space code.
+2. Kernel level thread is heavy weight as compared to user level due to permissions and security.
+3. To execute some specific tasks involving kernel code (eg. system call) we map user level thread to the kernel level thread.
