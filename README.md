@@ -22,3 +22,5 @@ I am still confused, but here is the summary of the answers:
 2. Kernel level thread is heavy weight as compared to user level due to permissions and security.
 3. To execute some specific tasks involving kernel code (eg. system call) we map user level thread to the kernel level thread.
 4. Linux kernel schedules a task, a task can be single threaded process, thread in a multi threaded process or kernel tasks. Clone() system call is used for creating task.
+
+- **Environment Variables** : [ variables like $#, $!...](https://superuser.com/questions/247127/what-is-and-in-linux/247131)
