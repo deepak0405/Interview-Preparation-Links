@@ -21,3 +21,4 @@ I am still confused, but here is the summary of the answers:
 1. User level thread is for user space code and kernel level thread is for kernel space code.
 2. Kernel level thread is heavy weight as compared to user level due to permissions and security.
 3. To execute some specific tasks involving kernel code (eg. system call) we map user level thread to the kernel level thread.
+4. Linux kernel schedules a task, a task can be single threaded process, thread in a multi threaded process or kernel tasks. Clone() system call is used for creating task.
