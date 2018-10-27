@@ -28,3 +28,4 @@ I am still confused, but here is the summary of the answers:
 ### 6. Networks:
 - **TCP**:
   1. [Flow Control](https://www.brianstorti.com/tcp-flow-control/)
+  2. [Everything about TCP](https://www.ictshore.com/free-ccna-course/transmission-control-protocol-advanced/)
