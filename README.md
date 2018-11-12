@@ -4,6 +4,7 @@
 - **Cheat Sheet** : [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463) 
 - **Time Series** : [Window Method and stuff](https://machinelearningmastery.com/backtest-machine-learning-models-time-series-forecasting/)
 - **Data Science** : [Questions with answers](https://github.com/kojino/120-Data-Science-Interview-Questions)
+- **Neural Network** : [Mathematics behind nn](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf&fbclid=IwAR2uCJKpn9ihNYRu7wjA4L0Ztslj480UzGlC5mS7ZxQhAPuu3QWz7lAV6fs)
 
 ### 2. Data Structure
 - **Interval and Segment Trees** : [Interval,Segment,Range and Priority Search Tree](http://www.iis.sinica.edu.tw/~dtlee/dtlee/CRCbook_chapter18.pdf)
