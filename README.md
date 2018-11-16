@@ -27,8 +27,8 @@ I am still confused, but here is the summary of the answers:
 4. Linux kernel schedules a task, a task can be single threaded process, thread in a multi threaded process or kernel tasks. Clone() system call is used for creating task.
 
 - **Environment Variables** : [ variables like $#, $!...](https://superuser.com/questions/247127/what-is-and-in-linux/247131)
-
-### 6. Networks:
+- **OS Cheat Sheet** : [Dinasour Book](http://codex.cs.yale.edu/avi/os-book/OS10/study-guide/Study-Guide.pdf)
+### 6. Networks
 - **TCP**:
   1. [Flow Control](https://www.brianstorti.com/tcp-flow-control/)
   2. [Everything about TCP](https://www.ictshore.com/free-ccna-course/transmission-control-protocol-advanced/)
