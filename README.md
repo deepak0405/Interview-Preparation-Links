@@ -29,6 +29,7 @@ I am still confused, but here is the summary of the answers:
 - **Environment Variables** : [ variables like $#, $!...](https://superuser.com/questions/247127/what-is-and-in-linux/247131)
 - **OS Cheat Sheet** : [Dinasour Book](http://codex.cs.yale.edu/avi/os-book/OS10/study-guide/Study-Guide.pdf)
 - **Mutex v/s Binary Sempahore** : [Discussion Link](http://gauss.ececs.uc.edu/Courses/c4003/extra/difference-between-semaphore-and-mutex.html)
+- **I/O** : [Small tutorial](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
 ### 6. Networks
 - **TCP**:
   1. [Flow Control](https://www.brianstorti.com/tcp-flow-control/)
